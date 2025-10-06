@@ -41,4 +41,3 @@ It provides insights into **employee attrition**, **performance trends**, **gend
 
 ---
 
-## 📂 Repository Structure
